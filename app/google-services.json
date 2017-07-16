@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "237488729711",
+    "firebase_url": "https://hiddenfonders.firebaseio.com",
+    "project_id": "hiddenfonders",
+    "storage_bucket": "hiddenfonders.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237488729711:android:6fab57e769816dd9",
+        "android_client_info": {
+          "package_name": "org.hiddenfounders.pyoub.minifacebookphotosexporting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237488729711-nna7jmmdm1p5rl8hlka73qi8qnm7h1mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAomzEoZ3WzJCwZ1L614thHWMwyvhaYB1U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
